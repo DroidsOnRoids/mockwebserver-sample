@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GithubClient</string>
+    <string name="endpoint">http://localhost:12345</string>
+</resources>

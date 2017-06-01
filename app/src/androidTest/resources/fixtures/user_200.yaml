@@ -1,0 +1,59 @@
+statusCode : 200
+headers:
+- "Server: GitHub.com"
+- "Date: Thu, 01 Jun 2017 13:29:34 GMT"
+- "Content-Type: application/json; charset=utf-8"
+#- "Transfer-Encoding: chunked"
+- "Status: 200 OK"
+- "X-RateLimit-Limit: 60"
+- "X-RateLimit-Remaining: 59"
+- "X-RateLimit-Reset: 1496327374"
+- "Cache-Control: public, max-age=60, s-maxage=60"
+- "Vary: Accept"
+- "ETag: W/\"663f115d5655f879960878987a27498e\""
+- "Last-Modified: Wed, 24 May 2017 05:51:40 GMT"
+- "X-GitHub-Media-Type: github.v3; format=json"
+- "Access-Control-Expose-Headers: ETag, Link, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval"
+- "Access-Control-Allow-Origin: *"
+- "Content-Security-Policy: default-src 'none'"
+- "Strict-Transport-Security: max-age=31536000; includeSubdomains; preload"
+- "X-Content-Type-Options: nosniff"
+- "X-Frame-Options: deny"
+- "X-XSS-Protection: 1; mode=block"
+- "X-Runtime-rack: 0.031434"
+- "Vary: Accept-Encoding"
+- "X-Served-By: 88531cdcf1929112ec480e1806d44a33"
+- "X-GitHub-Request-Id: C29A:29AF:690789B:7D8D128:593016BE"
+body: >
+    {
+      "login": "afilipowicz",
+      "id": 6144733,
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6144733?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/afilipowicz",
+      "html_url": "https://github.com/afilipowicz",
+      "followers_url": "https://api.github.com/users/afilipowicz/followers",
+      "following_url": "https://api.github.com/users/afilipowicz/following{/other_user}",
+      "gists_url": "https://api.github.com/users/afilipowicz/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/afilipowicz/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/afilipowicz/subscriptions",
+      "organizations_url": "https://api.github.com/users/afilipowicz/orgs",
+      "repos_url": "https://api.github.com/users/afilipowicz/repos",
+      "events_url": "https://api.github.com/users/afilipowicz/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/afilipowicz/received_events",
+      "type": "User",
+      "site_admin": false,
+      "name": "Andrzej Filipowicz",
+      "company": "Droids On Roids",
+      "blog": "",
+      "location": "Wrocław, Poland",
+      "email": null,
+      "hireable": null,
+      "bio": null,
+      "public_repos": 9,
+      "public_gists": 1,
+      "followers": 6,
+      "following": 2,
+      "created_at": "2013-12-09T17:16:01Z",
+      "updated_at": "2017-05-24T05:51:40Z"
+    }
